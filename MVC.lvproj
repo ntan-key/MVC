@@ -12,6 +12,9 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Application.lvlib" Type="Library" URL="../Application/Application.lvlib"/>
+		<Item Name="UIContainer.lvlib" Type="Library" URL="../UIContainer/UIContainer.lvlib"/>
+		<Item Name="UIHome.lvlib" Type="Library" URL="../UIHome/UIHome.lvlib"/>
+		<Item Name="UISettings.lvlib" Type="Library" URL="../UISettings/UISettings.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
