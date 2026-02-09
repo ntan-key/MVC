@@ -1,2 +1,2 @@
 # MVC
-LabView implementations of Model-View-Controller architecture.
+LabView implementations of Model-View-Controller architecture using the actor framework.
